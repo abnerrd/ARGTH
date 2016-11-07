@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Knight Prototype/KnightProto.unity
+  isLoaded: 1
+  isActive: 1
