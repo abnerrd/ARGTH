@@ -5,7 +5,7 @@ public class DebugScript : MonoBehaviour {
 
     private static DebugScript instance = null;
 
-    public GameContext gameContext = null;
+    public KnightContext gameContext = null;
     public GameObject DebugUnitPrefab;
 
 	// Use this for initialization
